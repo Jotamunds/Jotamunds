@@ -1,49 +1,70 @@
 # Olá, eu sou o João Gabriel Vieira da Silva 👋
 
-## 👨‍💻 Sobre Mim
+## 📊 Sobre mim
 
-Sou um profissional em transição de carreira para a área de **Análise e Desenvolvimento de Sistemas**, apaixonado por usar a tecnologia para resolver problemas reais e otimizar processos. Minha experiência em automação e análise de dados em ambientes corporativos me deu uma base sólida para entender as necessidades do negócio e traduzi-las em soluções de software eficientes.
+Sou estudante de **Sistemas de Informação** e profissional com experiência em **análise de dados, automação de processos e melhoria contínua** em ambientes corporativos.
 
-Com um histórico comprovado na **automação de processos** que geraram **economia de mais de 10 horas semanais** em projetos críticos, busco agora aplicar essa mentalidade de otimização e inovação em desafios de TI. Minha paixão por transformar dados em insights e por construir soluções robustas me impulsiona a aprender e crescer continuamente.
+Atuo transformando dados operacionais em informações úteis para apoiar decisões, acompanhar indicadores e otimizar rotinas. Tenho experiência com dados provenientes de **SAP, Excel, SharePoint e outros sistemas corporativos**, utilizando ferramentas como **Python, SQL, Power BI, VBA e Power Automate**.
 
-- 🎓 Cursando **Bacharelado em Sistemas de Informação**.
-- 💼 Buscando uma oportunidade como **Analista de Sistemas Júnior** ou **Estagiário de TI**.
-- 🌱 Gosto muito de aprender novas tecnologias e metodologias para aprimorar minhas habilidades e contribuir com projetos impactantes.
+Também desenvolvo automações que integram sistemas e reduzem atividades manuais. Algumas das soluções que implementei geraram uma **economia superior a 10 horas de trabalho por semana**, aumentando a produtividade e a confiabilidade dos processos.
 
----
-
-## 🛠️ Habilidades Técnicas
-
-### 📊 Análise e Modelagem
-- **Levantamento de Requisitos** (Funcionais e Não Funcionais)
-- **Mapeamento e Modelagem de Processos** (BPMN)
-- **Metodologias Ágeis:** Scrum, Kanban
-- **Otimização de Processos:** Lean Six Sigma, Pareto
-
-### 💻 Desenvolvimento e Linguagens
-- **Python:** Flask (APIs REST), Pandas, Matplotlib, Seaborn
-- **SQL:** Intermediário (SQL Server), MySQL, SQLite
-- **VBA:** Automação em Excel e Integração de Sistemas
-- **Web:** HTML5, CSS3, JavaScript
-- **Conceitos:** Lógica de Programação, Programação Orientada a Objetos (POO)
-
-### ☁️ Dados e Integrações
-- **Análise de Dados:** Pandas, Matplotlib, Seaborn
-- **Ferramentas de BI:** Power BI (conceitos)
-- **Integração de Sistemas:** SAP, SharePoint, OneDrive, Excel, Power Automate
-- **APIs REST:** Desenvolvimento e Consumo
-
-### ⚙️ Ferramentas e Infraestrutura
-- **Controle de Versão:** Git & GitHub
-- **Containers:** Docker (conceitos)
-- **Nuvem:** Microsoft Azure (conceitos básicos)
-- **Sistemas Operacionais:** Linux (básico)
-- **IDEs/Editores:** VS Code, Jupyter Notebook
-- **Gerenciamento de Projetos:** Microsoft Visio, Microsoft Planner
+* 🎓 Cursando **Bacharelado em Sistemas de Informação**.
+* 💼 Buscando oportunidades como **Analista de Dados Júnior** ou **Estagiário em Dados/BI**.
+* 📈 Interesse em análise de dados, Business Intelligence, automação e melhoria de processos.
+* 🌱 Aprimorando meus conhecimentos em **Python, SQL, Power BI e visualização de dados**.
 
 ---
 
-## 📫 Como me Encontrar
+## 🛠️ Habilidades técnicas
 
-- **LinkedIn:** [João Gabriel Vieira da Silva](https://www.linkedin.com/in/jo%C3%A3o-gabriel-vieira-da-silva/)
-- **E-mail:** joaogabrielvs2022@gmail.com
+### 📊 Análise de dados e Business Intelligence
+
+* Limpeza, tratamento e exploração de dados
+* Criação e acompanhamento de indicadores e KPIs
+* Construção de dashboards e relatórios gerenciais
+* Análise de processos e identificação de oportunidades de melhoria
+* Visualização de dados com **Matplotlib** e **Seaborn**
+* **Power BI** em desenvolvimento
+
+### 💻 Linguagens e ferramentas
+
+* **Python:** Pandas, Matplotlib, Seaborn e Flask
+* **SQL:** SQL Server, MySQL e SQLite
+* **Excel:** fórmulas, tabelas, dashboards, Power Query e VBA
+* **VBA:** automação de planilhas e integração com sistemas
+* **Jupyter Notebook** e **Visual Studio Code**
+* **Git e GitHub** para versionamento de projetos
+
+### ⚙️ Automação e integração de dados
+
+* Integração entre **SAP, Excel, SharePoint, OneDrive e Power Automate**
+* Automação de processos corporativos com **VBA e Power Automate**
+* Extração, transformação e organização de dados operacionais
+* Desenvolvimento e consumo de **APIs REST**
+
+### 📈 Negócios e melhoria de processos
+
+* Levantamento e análise de requisitos
+* Mapeamento e modelagem de processos
+* Lean Six Sigma e análise de Pareto
+* Metodologias ágeis: Scrum e Kanban
+* Experiência com processos de **PCP, produção e qualidade**
+
+---
+
+## 🚀 Áreas de interesse
+
+* Análise de Dados
+* Business Intelligence
+* Automação de Processos
+* Indicadores de desempenho
+* Análise de dados industriais e de Supply Chain
+* Integração de sistemas corporativos
+
+---
+
+## 📫 Como me encontrar
+
+* **LinkedIn:** [João Gabriel Vieira da Silva](https://www.linkedin.com/in/jo%C3%A3o-gabriel-vieira-da-silva/)
+* **E-mail:** [joaogabrielvs2022@gmail.com](mailto:joaogabrielvs2022@gmail.com)
+* **GitHub:** [Jotamunds](https://github.com/Jotamunds)
