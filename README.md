@@ -8,10 +8,28 @@ Atuo transformando dados operacionais em informações úteis para apoiar decis�
 
 Também desenvolvo automações que integram sistemas e reduzem atividades manuais. Algumas das soluções que implementei geraram uma **economia superior a 10 horas de trabalho por semana**, aumentando a produtividade e a confiabilidade dos processos.
 
-* 🎓 Cursando **Bacharelado em Sistemas de Informação**.
-* 💼 Buscando oportunidades como **Analista de Dados Júnior** ou **Estagiário em Dados/BI**.
-* 📈 Interesse em análise de dados, Business Intelligence, automação e melhoria de processos.
-* 🌱 Aprimorando meus conhecimentos em **Python, SQL, Power BI e visualização de dados**.
+* 🎓 Cursando **Bacharelado em Sistemas de Informação**
+* 💼 Buscando oportunidades como **Analista de Dados Júnior** ou **Estagiário em Dados/BI**
+* 📈 Interesse em análise de dados, Business Intelligence, automação e melhoria de processos
+* 🌱 Aprimorando conhecimentos em **Python, SQL, Power BI e visualização de dados**
+
+---
+
+## 🔷 Neoeffex
+
+Projeto voltado ao desenvolvimento de **soluções digitais, sistemas, automações e experiências web**, onde aplico e desenvolvo conhecimentos em programação, design de interfaces, integração de sistemas e tecnologia.
+
+<p align="center">
+  <a href="https://neoeffex.com.br" target="_blank">
+    <img src="./assets/neoeffex-logo.png" alt="Neoeffex" width="420">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://neoeffex.com.br">
+    <strong>🌐 Acessar neoeffex.com.br</strong>
+  </a>
+</p>
 
 ---
 
@@ -58,7 +76,7 @@ Também desenvolvo automações que integram sistemas e reduzem atividades manua
 * Business Intelligence
 * Automação de Processos
 * Indicadores de desempenho
-* Análise de dados industriais e de Supply Chain
+* Análise de dados industriais e Supply Chain
 * Integração de sistemas corporativos
 
 ---
@@ -68,3 +86,4 @@ Também desenvolvo automações que integram sistemas e reduzem atividades manua
 * **LinkedIn:** [João Gabriel Vieira da Silva](https://www.linkedin.com/in/jo%C3%A3o-gabriel-vieira-da-silva/)
 * **E-mail:** [joaogabrielvs2022@gmail.com](mailto:joaogabrielvs2022@gmail.com)
 * **GitHub:** [Jotamunds](https://github.com/Jotamunds)
+* **Neoeffex:** [neoeffex.com.br](https://neoeffex.com.br)
