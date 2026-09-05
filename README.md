@@ -81,7 +81,7 @@ projeto voltado ao desenvolvimento de **soluções digitais, sistemas, automaç�
 
 <p align="center">
   <a href="https://neoeffex.com.br" target="_blank">
-    <img src="./assets/neoeffex-logo.png" alt="Neoeffex" width="420">
+    <img src="./assets/neoeffex-logo-text-bottom.png" alt="Neoeffex" width="420">
   </a>
 </p>
 
